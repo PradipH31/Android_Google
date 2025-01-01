@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.pradiph31.happybirthday"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.pradiph31.happybirthday"
